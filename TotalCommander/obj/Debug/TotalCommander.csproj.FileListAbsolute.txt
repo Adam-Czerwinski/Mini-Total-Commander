@@ -1,0 +1,11 @@
+D:\Studia\Sem4\Prog.ob.i.graf\TrzeciaAplikacja-TotalCommander\TotalCommander\TotalCommander\bin\Debug\TotalCommander.exe.config
+D:\Studia\Sem4\Prog.ob.i.graf\TrzeciaAplikacja-TotalCommander\TotalCommander\TotalCommander\bin\Debug\TotalCommander.exe
+D:\Studia\Sem4\Prog.ob.i.graf\TrzeciaAplikacja-TotalCommander\TotalCommander\TotalCommander\bin\Debug\TotalCommander.pdb
+D:\Studia\Sem4\Prog.ob.i.graf\TrzeciaAplikacja-TotalCommander\TotalCommander\TotalCommander\obj\Debug\TotalCommander.Form.resources
+D:\Studia\Sem4\Prog.ob.i.graf\TrzeciaAplikacja-TotalCommander\TotalCommander\TotalCommander\obj\Debug\TotalCommander.Properties.Resources.resources
+D:\Studia\Sem4\Prog.ob.i.graf\TrzeciaAplikacja-TotalCommander\TotalCommander\TotalCommander\obj\Debug\TotalCommander.UCPane.resources
+D:\Studia\Sem4\Prog.ob.i.graf\TrzeciaAplikacja-TotalCommander\TotalCommander\TotalCommander\obj\Debug\TotalCommander.csproj.GenerateResource.cache
+D:\Studia\Sem4\Prog.ob.i.graf\TrzeciaAplikacja-TotalCommander\TotalCommander\TotalCommander\obj\Debug\TotalCommander.csproj.CoreCompileInputs.cache
+D:\Studia\Sem4\Prog.ob.i.graf\TrzeciaAplikacja-TotalCommander\TotalCommander\TotalCommander\obj\Debug\TotalCommander.exe
+D:\Studia\Sem4\Prog.ob.i.graf\TrzeciaAplikacja-TotalCommander\TotalCommander\TotalCommander\obj\Debug\TotalCommander.pdb
+D:\Studia\Sem4\Prog.ob.i.graf\TrzeciaAplikacja-TotalCommander\TotalCommander\TotalCommander\obj\Debug\TotalCommander.csprojAssemblyReference.cache
