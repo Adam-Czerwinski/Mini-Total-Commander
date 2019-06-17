@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using TotalCommander.Database;
 
 namespace TotalCommander
 {
@@ -60,6 +61,8 @@ namespace TotalCommander
                 }
                 catch(Exception error) { MessageBox.Show(error.Message); }
             }
+
+            Querys.AddChange(zrodlo, cel);
 
             return true;
         }
